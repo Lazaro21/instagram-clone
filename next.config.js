@@ -7,6 +7,7 @@ const nextConfig = {
 			"links.papareact.com",
 			"t1.gstatic.com",
 			"cdn.fakercloud.com",
+			"lh3.googleusercontent.com"
 		],
 	},
 };
